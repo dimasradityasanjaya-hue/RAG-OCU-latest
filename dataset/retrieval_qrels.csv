@@ -1,0 +1,16 @@
+Test_ID;Relevant_KB_IDs;Status;Rationale
+T001;K144;evaluable;Kosakata DEYEN memberi bukti padanan saya
+T002;F046;evaluable;Frasa POI PASAU memberi bukti padanan POI menjadi pergi
+T003;F014|F015;evaluable;Dua frasa kampuong memberi bukti padanan kampung tanpa menilai atribut tambahannya
+T004;K419;evaluable;Kosakata MANYUNGKA memberi bukti padanan makan
+T005;K266|K072;evaluable;Kosakata KOBUN dan BAWU memberi padanan kebun dan baru
+T006;K682|K678;evaluable;Kosakata UGHANG dan TUO memberi padanan orang dan tua
+T007;K034|K588;evaluable;Kosakata ATI dan SONANG memberi padanan hati dan senang
+T008;K482|K173;evaluable;Kosakata PASAU dan GHAMAI memberi padanan pasar dan ramai
+T009;K725|K419;evaluable;Kosakata WAANG dan MANYUNGKA memberi padanan kamu dan makan
+T010;F046|K144|K243|K507;evaluable;Konteks DEYEN, POI, KA, dan POI PASAU mendukung terjemahan
+T011;S001|F043|K709|K705|K243|K507;evaluable;Kalimat mirip dan unit kata/frasa mendukung seluruh makna utama
+T012;F072|F068|K484|K400|K106|K150|K712|S002;evaluable;Frasa dan kosakata PAJIE serta MEMBACO mendukung anak membaca buku di rumah serta kalimat mirip
+T013;F066|K150|K146|S003;evaluable;Frasa inti kosakata lokasi dan kalimat mirip mendukung terjemahan
+T014;F060|F038|K323|F046|K243|K278|S004;evaluable;Frasa kalimat mirip dan kosakata mendukung suami pergi ke kebun pagi hari
+T015;F072|K484|K059|K243|K579|K076|K257|S016|S026;evaluable;Kosakata PAJIE, BESAMO, dan KAWAN serta kalimat mirip mendukung anak berjalan ke sekolah bersama teman

@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="0">
+  <title>Penerjemah Bahasa Ocu — Pelestarian Bahasa Melayu Kampar</title>
+  <link rel="stylesheet" href="/static/styles.css?v=4.0">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <!-- Songket decorative top border -->
+  <div class="songket-border" aria-hidden="true"></div>
+
+  <!-- Header -->
+  <header class="topbar">
+    <div class="topbar-inner">
+      <div class="brand">
+        <!-- Selembayung-inspired icon -->
+        <svg class="brand-icon" viewBox="0 0 40 40" fill="none">
+          <path d="M20 2L26 14H14L20 2Z" fill="currentColor" opacity=".9"/>
+          <path d="M20 14L28 28H12L20 14Z" fill="currentColor" opacity=".6"/>
+          <rect x="8" y="28" width="24" height="3" rx="1.5" fill="currentColor" opacity=".4"/>
+          <rect x="12" y="33" width="16" height="2" rx="1" fill="currentColor" opacity=".25"/>
+          <circle cx="20" cy="9" r="2" fill="currentColor" opacity=".3"/>
+        </svg>
+        <div class="brand-text">
+          <span class="brand-name">Penerjemah Bahasa Ocu</span>
+        </div>
+      </div>
+      <nav class="tab-bar" role="tablist">
+        <button class="tab active" data-tab="translate" role="tab" aria-selected="true">Terjemahan</button>
+        <span class="tab-indicator"></span>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Songket border below header -->
+  <div class="songket-border" aria-hidden="true"></div>
+
+  <main class="main">
+
+    <!-- ====== TRANSLATE TAB ====== -->
+    <section class="view" id="translateTab">
+
+      <!-- Cultural intro -->
+      <div class="cultural-intro">
+        <h2>Melestarikan Bahasa Ocu Kampar Riau</h2>
+        <p>Sistem penerjemahan Bahasa Kampar (Bahasa Ocu) berbasis Large Language Model dan Retrieval-Augmented Generation Translation (RAGtrans) untuk pelestarian warisan budaya bahasa Melayu Kampar</p>
+      </div>
+
+      <!-- Translator card -->
+      <div class="card translator-card">
+        <div class="translator-grid">
+
+          <!-- Input side -->
+          <div class="t-pane t-input">
+            <div class="t-pane-head">
+              <span class="t-label" id="inputLabel">Bahasa Ocu</span>
+              <div class="t-actions">
+                <span class="t-counter" id="charCount">0</span>
+                <button class="t-icon-btn" id="clearInput" title="Hapus teks" aria-label="Hapus teks">
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+                </button>
+              </div>
+            </div>
+            <textarea id="inputText" placeholder="Ketik teks Bahasa Ocu..." rows="5" spellcheck="false"></textarea>
+            <div class="t-pane-foot">
+              <button class="btn-translate" id="translateBtn">
+                <span class="btn-label">Terjemahkan</span>
+                <svg class="btn-spinner hidden" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="12" cy="12" r="10" stroke-dasharray="31.4 31.4" stroke-linecap="round"/></svg>
+              </button>
+            </div>
+          </div>
+
+          <!-- Divider -->
+          <div class="t-divider" aria-hidden="true"><span></span></div>
+
+          <!-- Output side -->
+          <div class="t-pane t-output">
+            <div class="t-pane-head">
+              <span class="t-label" id="outputLabel">Bahasa Indonesia</span>
+              <button class="t-icon-btn" id="copyOutput" title="Salin terjemahan" aria-label="Salin terjemahan">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>
+              </button>
+            </div>
+            <div class="output-area" id="outputText">
+              <span class="output-placeholder">Hasil terjemahan akan muncul di sini...</span>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+    </section>
+
+    <!-- Stats strip -->
+    <div class="stats-strip">
+      <div class="stat-item">
+        <strong id="totalEntries">&ndash;</strong>
+        <span>Total Entri</span>
+      </div>
+      <div class="stat-item">
+        <strong id="kosakata">&ndash;</strong>
+        <span>Kosakata</span>
+      </div>
+      <div class="stat-item">
+        <strong id="frasa">&ndash;</strong>
+        <span>Frasa</span>
+      </div>
+      <div class="stat-item">
+        <strong id="kalimat">&ndash;</strong>
+        <span>Kalimat</span>
+      </div>
+    </div>
+
+  </main>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <span class="footer-motif">&#9670; &#9670; &#9670; &#9670; &#9670;</span>
+    Penerjemah Bahasa Ocu &middot; RAG + Ollama TranslateGemma &middot; Pelestarian Budaya Melayu Kampar &middot; &copy; 2026
+  </footer>
+
+  <!-- Loading overlay -->
+  <div class="loading-overlay hidden" id="loadingOverlay">
+    <div class="loading-box">
+      <div class="loading-spinner"></div>
+      <p>Sedang menerjemahkan...</p>
+    </div>
+  </div>
+
+  <!-- Toast -->
+  <div class="toast hidden" id="toast"><span class="toast-msg"></span></div>
+
+  <script src="/static/app.js?v=4.0"></script>
+</body>
+</html>

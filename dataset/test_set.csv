@@ -1,0 +1,16 @@
+ID;Bahasa Ocu;Terjemahan Indonesia;Tipe;Keterangan
+T001;DEYEN;Saya;kosakata;Pronomina orang pertama
+T002;POI;Pergi;kosakata;Kata kerja
+T003;KAMPUONG;Kampung;kosakata;Kata benda tempat
+T004;MANYUNGKA;Makan;kosakata;Kata kerja
+T005;KOBUN BAWU;Kebun baru;frasa;Frasa nomina
+T006;UGHANG TUO;Orang tua;frasa;Frasa nomina
+T007;ATI SONANG;Hati senang;frasa;Frasa nomina
+T008;PASAU GHAMAI;Pasar ramai;frasa;Frasa nomina
+T009;WAANG MANYUNGKA NASI;Kamu makan nasi;kalimat;Kalimat sederhana
+T010;DEYEN POI KA PASAU;Saya pergi ke pasar;kalimat;Kalimat sederhana
+T011;UGHANG TUO MAMBOLI BOGHE KA PASAU;Orang tua membeli beras ke pasar;kalimat;Kalimat kompleks
+T012;PAJIE MEMBACO BUKU DI UMAH;Anak membaca buku di rumah;kalimat;Kalimat kompleks
+T013;BINI MAMBUEK SAMBAE DI DAPU;Istri membuat sambal di dapur;kalimat;Kalimat kompleks
+T014;LAKI POI KA KOBUN PAGI AGHI;Suami pergi ke kebun pagi hari;kalimat;Kalimat dengan keterangan waktu
+T015;PAJIE BAJALAN KA SIKOLAH BESAMO KAWAN;Anak berjalan ke sekolah bersama teman;kalimat;Kalimat dengan keterangan cara

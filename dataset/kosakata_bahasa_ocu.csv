@@ -1,0 +1,704 @@
+ID;Bahasa Ocu;Terjemahan Indonesia;Keterangan
+K001;ABI;Habis;Adjektiva
+K002;ACUN;Racun;Nomina
+K003;ADO;Ada;Verba eksistensial
+K004;ADIOK;Adik;Nomina (kekerabatan)
+K005;AGHI;Hari;Nomina (waktu)
+K006;AGHOK;Harap;Verba
+K007;AHEK;Minggu;Nomina (waktu)
+K008;AJO;Raja;Nomina
+K009;AJAK;Ajak;Verba
+K010;AJAR;Ajar;Verba (perasaan)
+K011;ALE;Alas;Nomina
+K012;ALAU;Usir;Verba
+K013;ALMANAK;Kalender;Nomina
+K014;ALUI;Halus;Adjektiva
+K015;AMBAI-AMBAI;Pelacur;Nomina
+K016;AMBEK;Hambat;Verba
+K017;AMBIOK;Ambil;Verba
+K018;AMBUIK;Rambut;Nomina
+K019;ANCAK;Cantik;Adjektiva
+K020;ANCU;Hancur;Adjektiva
+K021;ANDIE;Bodoh;Adjektiva
+K022;ANGEK;Panas;Adjektiva
+K023;ANG;Kamu;Pronomina
+K024;ANGUIK;Geser;Verba
+K025;ANGKEK;Angkat;Verba
+K026;ANTAGHO;Antara;Preposisi
+K027;ANTAU;Antar;Verba
+K028;ANTU;Hantu;Nomina
+K029;ANTUOK;Benturkan;Verba
+K030;APO;Apa;Pronomina tanya
+K031;ASIAK;Fokus;Adjektiva
+K032;ASO;Rasa;Nomina
+K033;ASOAN;Rasakan;Verba
+K034;ATI;Hati;Nomina
+K035;ATOK;Atap;Nomina
+K036;ATUOK;Kakek;Nomina (kekerabatan)
+K037;AWAI;Jangkau;Verba
+K038;AWUONG;Arungi;Verba
+K039;AYA;Ayah;Nomina (kekerabatan)
+K040;AYU;Air;Nomina
+K041;BAANTAU;Diantarkan;Verba
+K042;BABANTA;Berkelahi;Verba
+K043;BABASO;Basa-basi;Nomina
+K044;BABIAK;Basah;Adjektiva
+K045;BABINI;Beristri;Verba
+K046;BACAWUIK;Bicara kotor;Verba
+K047;BACOKAK;Berkelahi;Verba
+K048;BACOMIN;Bercermin;Verba
+K049;BACONDO;Seperti;Preposisi (pembanding)
+K050;BAKALEBUIK;Simpang siur;Adjektiva
+K051;BAKOBUN;Berkebun;Verba
+K052;BAKOJO;Bekerja;Verba
+K053;BALAGHI;Berlari;Verba
+K054;BALAKI;Punya suami;Verba
+K055;BALIOK;Pulang;Verba
+K056;BALUKAU;Belukar;Nomina
+K057;BAJOJANG;Keluyuran;Verba
+K058;BAJALAN;Berjalan;Verba
+K059;BAPO;Berapa;Pronomina tanya
+K060;BAPUI ;Pergi (mengusir pergi);Verba
+K061;BAROSIO;Bersih;Adjektiva
+K062;BASIHAMBU;Berhamburan;Verba
+K063;BASIJOBEK;Berbagi rata;Verba
+K064;BASILONGKANG;Bersitegang;Verba
+K065;BASITOGANG;Bersitegang;Verba
+K066;BASITUJIK;Berdebat ;Verba
+K067;BASEPA;Berserak;Verba
+K068;BATANYO;Bertanya;Verba
+K069;BATOMU;Bertemu;Verba
+K070;BAUTAK;Berakal;Verba
+K071;BAETU;Begitu;Adverbia
+K072;BAWU;Baru;Adjektiva
+K073;BEAJAU;Belajar;Verba
+K074;BEANGKEK;Berangkat;Verba
+K075;BEBUDAK;Anak-anak;Nomina
+K076;BESAMO;Bersama;Adverbia
+K077;BESAMO-SAMO;Bersama-sama;Adverbia
+K078;BESUO;Berjumpa;Verba
+K079;BIALA;Biarkanlah;Verba imperatif
+K080;BIASO;Biasa;Adjektiva
+K081;BIBIU;Bibir;Nomina
+K082;BILIOK;Kamar;Nomina
+K083;BINASO;Binasa;Verba
+K084;BINGUONG;Bingung;Adjektiva
+K085;BINI;Istri;Nomina
+K086;BIU;Biru;Adjektiva
+K087;BO;Bawa;Verba
+K088;BOGHE;Beras;Nomina
+K089;BOKU;Beku;Adjektiva
+K090;BOLI;Beli;Verba
+K091;BONCA;Rawa;Nomina
+K092;BONGHI;Marah;Adjektiva
+K093;BONGKAK;Bengkak;Adjektiva
+K094;BONTAU;Bentar;Adverbia
+K095;BONTUOK;Bentuk;Nomina
+K096;BOSAU / GODANG;Besar;Adjektiva
+K097;BOTI;Betis;Nomina
+K098;BOTIOK;Pepaya;Nomina
+K099;BOTO;Berhenti;Verba
+K100;BOTE BOTAH;Tahan;Adjektiva
+K101;BOTUE;Benar;Adjektiva
+K102;BOWUOK;Beruk;Nomina (hewan)
+K103;BUJANG;Laki-laki;Nomina
+K104;BUKU;Buku;Nomina
+K105;BULIO;Boleh;Adverbia
+K106;BUNGKANG;Mati;Verba
+K107;BUNGKE;Bungkal;Nomina
+K108;BUNUO;Bunuh;Verba
+K109;BUSUOK;Busuk;Adjektiva
+K110;BUSUOK ATI;Pendengki;Adjektiva
+K111;BUSUOK KALANG;Pendendam;Adjektiva
+K112;BUWUK;Buruk;Adjektiva
+K113;CABODAK;Nangka;Nomina
+K114;CAK LA;Biarlah;Partikel
+K115;CATUOK;Tebas;Verba
+K116;CEGAK;Sehat;Adjektiva
+K117;CENTANG;Rabun;Adjektiva
+K118;CIEK;Satu;Numeralia
+K119;CIGAK;Monyet;Nomina (hewan)
+K120;CIIK;Kotoran ;Nomina
+K121;CILAKO;Celaka;Adjektiva
+K122;CILIE;Licik;Adjektiva
+K123;CILOK;Curi;Verba
+K124;CIBODAK;Cempedak;Nomina
+K125;CINAN;Suka;Verba
+K126;CINDU;Cendol;Nomina
+K127;CINTO;Cinta;Nomina
+K128;CODIOK;Pintar;Adjektiva
+K129;CODIOK BUWUOK;Licik;Adjektiva
+K130;COGA;Ganteng ;Adjektiva
+K131;COME;Cemas;Adjektiva
+K132;COMPANG;Tidak awet;Adjektiva
+K133;CONGOK;Rakus;Adjektiva
+K134;COPEK;Cepat;Adjektiva
+K135;CORAH;Bualan;Nomina
+K136;CUBO;Coba;Verba
+K137;CUKUIK;Cukup;Adverbia
+K138;CULIOK;Colek;Verba
+K139;CUNDONG;Condong;Verba
+K140;DAI;Dari;Preposisi
+K141;DAN;Dan;Konjungsi
+K142;DAPU;Dapur;Nomina
+K143;DEK;Karena;Preposisi
+K144;DEYEN;Saya;Pronomina
+K145;DEN;Aku (kasar);Pronomina
+K146;DI;Di;Preposisi (kata depan)
+K147;DIMANO;Di mana;Pronomina tanya
+K148;DINDIONG;Dinding;Nomina
+K149;DOGHONG;Dorong;Verba
+K150;DOGIE;Nakal;Adjektiva
+K151;DOMOM;Demam;Nomina
+K152;DONGAU;Dengar;Verba
+K153;DONGKI;Dengki;Adjektiva
+K154;DOSO;Dosa;Nomina
+K155;DUBALANG;Prajurit;Nomina
+K156;DUDUOK;Duduk;Verba
+K157;DUA;Dua;Numeralia
+K158;DUKUN;Dukun;Nomina
+K159;DUNIO;Dunia;Nomina
+K160;DUNSANAK;Saudara;Nomina (kekerabatan)
+K161;DUYAN;Durian;Nomina
+K162;DUTO;Dusta;Nomina
+K163;ELOK;Baik;Adjektiva
+K164;ETEK;Bibi;Nomina
+K165;ETONG;Hitung;Verba
+K166;ETONGAN;Persoalan;Nomina
+K167;GADI;Gadis;Nomina
+K168;GAMPANG;Tidak tahu malu;Adjektiva
+K169;GANJA;Ganjal;Verba
+K170;GASIONG;Putar;Verba
+K171;GHAGHANG;Garang;Adjektiva
+K172;GHAGU;Ragu;Adjektiva
+K173;GHAMAI;Ramai;Adjektiva
+K174;GHAYAEI;Mancing;Verba
+K175;GHAYO;Raya;Adjektiva
+K176;GHINDU;Rindu;Verba
+K177;GILO;Gila;Adjektiva
+K178;GOLAK;Ketawa;Verba
+K179;GOLUIK;Main-main;Verba
+K180;GOPUOK;Gemuk;Adjektiva
+K181;GULAI;Gulai;Nomina
+K182;HAROTO;Harta;Nomina
+K183;HAROTO PISOKO;Harta pusaka;Nomina
+K184;HARUS;Harus;Adverbia (modalitas)
+K185;HASIL;Hasil;Nomina
+K186;HOBAN;Babak belur;Adjektiva
+K187;HOMPE;Hempas;Verba
+K188;HONDA;Sepeda motor;Nomina
+K189;HONTAM;Tendang;Verba
+K190;HOYAK;Genjot;Verba
+K191;IJAU;Hijau;Adjektiva
+K192;IJAN;Jangan;Partikel
+K193;IKO;Ini;Pronomina penunjuk
+K194;IKU;Ekor ;Nomina
+K195;ILAK;Elak;Verba
+K196;ILANG;Hilang;Verba
+K197;IMBAU;Panggil;Verba
+K198;IMAU;Harimau;Nomina (hewan)
+K199;INDAK;Tidak;Adverbia (negasi)
+K200;INGEK;Ingat;Verba
+K201;INYO;Dia;Pronomina orang ketiga
+K202;ISAU;Risau;Adjektiva
+K203;ISOK;Hisap;Verba
+K204;ISUOK;Besok;Adverbia (waktu)
+K205;ITAM;Hitam;Adjektiva
+K206;ITAN;Itu;Pronomina penunjuk
+K207;IYO;Iya;Partikel
+K208;JAEK;Jahat;Adjektiva
+K209;JAGO;Bangun;Verba
+K210;JAGHI;Jari;Nomina
+K211;JANDO;Janda;Nomina
+K212;JANGGUIK;Jenggot;Nomina
+K213;JANTAN;Laki-laki;Nomina
+K214;JARAK;Jarak;Nomina
+K215;JASO;Jasa;Nomina
+K216;JIMBALANG;Setan;Nomina
+K217;JIN;Jin;Nomina
+K218;JO;Dengan;Preposisi
+K219;JOGHIO;Jerih / sesak napas;Nomina
+K220;JOJOK;Benci;Verba
+K221;JOLE;Jelas;Adjektiva
+K222;JOLANG;Jelang;Preposisi (waktu)
+K223;JOLONG;Awal;Adjektiva
+K224;JONGKE;Jengkal;Nomina
+K225;JONGKEK;Nakal;Adjektiva
+K226;JONJI;Janji;Nomina
+K227;JUO’LA;Mungkin iya;Adverbia
+K228;JULAI;Menggelantung;Verba
+K229;JULUOK;Juluk;Nomina
+K230;JUMEK;Jumat;Nomina (waktu)
+K231;JUNGUIK;Ujung;Nomina
+K232;KA;Ke;Preposisi
+K233;KABAU;Kabar;Nomina
+K234;KACO;Kaca;Nomina
+K235;KAIN ;Kain ;Nomina
+K236;KAJANG;Atap dari pandan;Nomina
+K237;KALIMEK;Hemat;Adjektiva
+K238;KALOPIEW;Skrotum laki-laki;Nomina
+K239;KALUONG;Kalung;Nomina
+K240;KAMANO;Ke mana;Adverbia
+K241;KAMBIU;Kelapa;Nomina
+K242;KAMBIONG;Kambing;Nomina
+K243;KAMI;Kami;Pronomina
+K244;KAMPAU;Sungai Kampar;Nomina
+K245;KAMPIEGH ;Tempat sirih;Nomina
+K246;KANASI;Lauk pauk;Nomina
+K247;KANTA;Makan sambal;Verba
+K248;KANTUOK;Kantuk;Adjektiva
+K249;KAPAK;Kampak;Nomina
+K250;KAPALO;Kepala;Nomina
+K251;KAPIEK;Ikan kapiek;Nomina
+K252;KAPIU;Kapir;Nomina
+K253;KASAU;Kasar;Adjektiva
+K254;KASU;Kasur;Nomina
+K255;KATELO;Ubi rambat;Nomina
+K256;KAU;Kamu (wanita);Pronomina
+K257;KAWAN;Teman;Nomina
+K258;KAWUONG;Karung;Nomina
+K259;KEPADO;Kepada;Preposisi
+K260;KEPOTANG;Kemarin;Adverbia
+K261;KETEK / KOCIOK;Kecil;Adjektiva
+K262;KILAN;Perasaan;Nomina
+K263;KILEK;Kilat;Nomina
+K264;KISUIK;Kusut;Adjektiva
+K265;KOBAU;Kerbau;Nomina
+K266;KOBUN;Kebun;Nomina
+K267;KODAI;Warung;Nomina
+K268;KODAL;Tukak;Nomina
+K269;KOGHE;Keras;Adjektiva
+K270;KOGHIONG;Kering;Adjektiva
+K271;KOJAU;Kejar;Verba
+K272;KOJANG;Kejang;Verba
+K273;KOJAI;Karet;Nomina
+K274;KOJUIK;Kaget;Adjektiva
+K275;KOJO;Kerja;Verba
+K276;KOLAM;Gelap;Adjektiva
+K277;KOLUIK;Menggulung;Verba
+K278;KOMAI;Kemari;Adverbia
+K279;KOMAK;Risau ;Adjektiva
+K280;KOMI;Kamis;Nomina (waktu)
+K281;KOMBUIK;Tempat padi;Nomina
+K282;KOMBUIK;Gambut;Nomina
+K283;KONAI;Kena;Verba
+K284;KONDIOK;Babi;Nomina
+K285;KONIONG;Kening;Nomina
+K286;KONTUIK;Kentut;Verba
+K287;KOSAN / KOSEN;Ternyata;Adverbia
+K288;KOSAL;Kesal;Adjektiva
+K289;KOSAK;Gerah;Adjektiva
+K290;KOSIOK;Pasir;Nomina
+K291;KOTU;Waktu;Nomina
+K292;KULIMA;Jampi-jampi;Nomina
+K293;KUNIONG;Kuning;Adjektiva
+K294;KUNTANG;Hangus;Adjektiva
+K295;KUOK ;Kurap;Nomina
+K296;KUPAK;Patah;Adjektiva
+K297;KUSAU;Urakan;Adjektiva
+K298;KUSUIK;Kusut;Adjektiva
+K299;KUTANG;Bra (kutang wanita);Nomina
+K300;KUWUONG;Kurungan;Nomina
+K301;LADIANG / CANDUONG;Parang;Nomina
+K302;LAHAT;Liang kubur;Nomina
+K303;LAHIU;Lahir;Verba
+K304;LAKI;Suami;Nomina
+K305;LAMAN;Halaman;Nomina
+K306;LAMBE;Tebas;Verba
+K307;LAMBEK;Lambat;Adjektiva
+K308;LAMO;Lama;Adjektiva
+K309;LANTAK;Tabrak;Verba
+K310;LANYAU;Injak;Verba
+K311;LAGHI;Lari;Verba
+K312;LAGHANG;Larang;Verba
+K313;LATONTU;Sudah tahu;Adverbia
+K314;LAWIK;Laut;Nomina
+K315;LAWIK MALAM;Larut malam;Adverbia (waktu)
+K316;LAWUOK;Ikan;Nomina
+K317;LELAMBEK;Perlahan;Adverbia
+K318;LESEK;Lasak;Adjektiva
+K319;LIMBAGO;Organisasi;Nomina
+K320;LIMBEK;Lele;Nomina
+K321;LIMAU;Jeruk;Nomina
+K322;LIMAU PUWIK;Jeruk purut;Nomina
+K323;LIMPOPE;Kupu-kupu;Nomina
+K324;LIMO;Lima;Numeralia
+K325;LINTA;Linta;Nomina
+K326;LISUIK;Kempes;Adjektiva
+K327;LIPEK;Lipat;Verba
+K328;LITAK;Lapar;Adjektiva
+K329;LOBA;Lebah;Nomina
+K330;LOBIH;Lebih;Adverbia
+K331;LODAH;Kotor;Adjektiva
+K332;LOKEK;Lengkek;Adjektiva
+K333;LOKUO;Kotor;Adjektiva
+K334;LOLANG;Layang-layang;Nomina
+K335;LOLOK;Tidur;Verba
+K336;LOMPEK;Lompat;Verba
+K337;LONTIOK;Lentik;Adjektiva
+K338;LOPE;Lepas;Verba
+K339;LOPEK;Lepat;Nomina
+K340;LOJUAN;Lajukan;Verba
+K341;LOSE;Tidak disiplin;Adjektiva
+K342;LOSUO;Lancar;Adjektiva
+K343;LOTU’LAN;Bunyikan;Verba
+K344;LOTUI;Lulusan;Nomina
+K345;LOWE;Luas;Adjektiva
+K346;LUBANG;Lubang;Nomina
+K347;LUKO;Luka;Nomina
+K348;LUMBUNG;Lumbung;Nomina
+K349;LUNKE;Habis masa berbuah;Verba
+K350;LUSUO;Lusu;Adjektiva
+K351;LUWI;Lurus;Adjektiva
+K352;MATO;Mata;Nomina
+K353;MAMBUEK;Membuat;Verba
+K354;MAMBOLI;Membeli;Verba
+K355;MEMBAOK;Membawa;Verba
+K356;MUSIKIN;Miskin;Adjektiva
+K357;MUDO;Muda;Adjektiva
+K358;MULO;Mulai;Verba
+K359;MUSOBAB;Pangkal penyebab;Nomina
+K360;MANGKUOK;Mangkuk;Nomina
+K361;MOTU;Ulet;Adjektiva
+K362;MONSU;Paman bungsu;Nomina
+K363;AMAK;Ibu;Nomina
+K364;MAMAK;Paman;Nomina
+K365;MAK ONGAH;Paman lebih muda;Nomina
+K366;MAKCIEK;Saudari ibu/ayah;Nomina
+K367;MAKDANG;Saudari ibu/ayah;Nomina
+K368;MAISOK;Menghisap;Verba
+K369;MANGADU;Mengadukan;Verba
+K370;MANANDE;Merusak;Verba
+K371;MALAM;Malam;Nomina (waktu)
+K372;MANJOLANG;Menjelang;Preposisi (waktu)
+K373;MAHABI;Menghabiskan;Verba
+K374;MAKOSUIK;Maksud;Nomina
+K375;MANYUSA;Menyulitkan;Verba
+K376;MANYAKIK;Menyakitkan;Verba
+K377;MANONGKAU;Tidak patuh;Adjektiva
+K378;MANANGIH;Menangis;Verba
+K379;MANDONGOU;Mendengar;Verba
+K380;MALAWAN;Melawan;Verba
+K381;MULUIK;Mulut;Nomina
+K382;MANAKIAK;Memotong karet;Verba
+K383;MAUMBAN;Melempar;Verba
+K384;MAAWAI;Berusaha mengambil;Verba
+K385;MAANTAU;Merantau;Verba
+K386;MANGAGHIK;Bergerak;Verba
+K387;MANENGOK;Melihat;Verba
+K388;MINTUO;Mertua;Nomina
+K389;MADAK;Sangat bodoh;Adjektiva
+K390;MAIKUIN;Mengikuti;Verba
+K391;MANO;Mana;Pronomina
+K392;MANUNGGU;Menunggu;Verba
+K393;MANGECEK;Berbicara;Verba
+K394;MATOAI;Matahari;Nomina
+K395;MENJOLEN;Menjelaskan;Verba
+K396;MEASO;Merasa;Verba
+K397;MEAGIE;Memberi;Verba
+K398;MEMAIN;Bermain;Verba
+K399;MEMBEROSIN;Membersihkan;Verba
+K400;MEMBACO;Membaca;Verba
+K401;MEMAHAMI;Memahami;Verba
+K402;MENUJU;Menuju;Preposisi
+K403;MENYAPU;Menyapu;Verba
+K404;MENYELOSEN;Menyelesaikan;Verba
+K405;MENYAMBUIK;Menyambut;Verba
+K406;MUDIOK;Mudik;Verba
+K407;MUO;Ayo;Interjeksi
+K408;MUTA;Muntah;Verba
+K409;MUSUO;Musuh;Nomina
+K410;MOMANG KALANG;Memuakkan;Verba
+K411;MOMAK;Memekik;Verba
+K412;MOTOR;Mobil;Nomina
+K413;MONDO;Semenda;Nomina
+K414;MALIN;Ulama;Nomina
+K415;MAAMBU;Melompat;Verba
+K416;MAMUEK;Menjala;Verba
+K417;MAMBUTUIK;Cemberut;Adjektiva
+K418;MANGAYIE;Memancing;Verba
+K419;MANYUNGKA;Makan;Verba
+K420;NAHAN;Memasang jerat;Verba
+K421;NAKIOK;Memotong karet;Verba
+K422;NAMO;Nama;Nomina
+K423;NAMPAK;Tampak;Verba
+K424;NAN;Yang;Pronomina
+K425;NANAM;Tanam;Verba
+K426;NANGGUOK;Menangguk;Verba
+K427;NANGUANG;Tanggung;Adjektiva
+K428;NASI;Nasi;Nomina
+K429;NGACAU;Pengacau;Nomina
+K430;NGADU;Mengadu;Verba
+K431;NGAJI;Mengaji;Verba
+K432;NGALO;Ubi kayu;Nomina
+K433;NGAMBIOK;Mengambil;Verba
+K434;NGAMPUONG;Kumpul rumah suku;Verba
+K435;NGAMUOK;Ngamuk;Verba
+K436;NGANDUNG;Hamil;Adjektiva
+K437;NONDAK;Mau;Verba
+K438;OBUOK;Rambut;Nomina
+K439;OBUONG;Rebung;Nomina
+K440;OCIAK;Tante;Nomina
+K441;OCU;Abang;Nomina
+K442;ODANG;Tante;Nomina
+K443;OGO;Harga;Nomina
+K444;ONGOK;Nafas;Nomina
+K445;OGHONG;Tulalit;Adjektiva
+K446;OJAN;Mengejan;Verba
+K447;OLA;Sudah;Adverbia
+K448;OLALE;Sudahlah;Interjeksi
+K449;OLANG;Burung elang;Nomina
+K450;OMAK;Ibu / emak;Nomina
+K451;OME;Emas;Nomina
+K452;OMPEK;Empat;Numeralia
+K453;ONAM;Enam;Numeralia
+K454;ONDAH;Renda;Nomina
+K455;ONDEK;Aduh ;Interjeksi
+K456;ONGE;Sombong;Adjektiva
+K457;ONGOK;Napas;Nomina
+K458;ONTA IYO;Entah iya;Adverbia
+K459;ONTAK;Tusuk dengan tombak;Verba
+K460;ONTALA;Tidak tahu;Adverbia
+K461;ONTOK;Diam;Adverbia
+K462;ONSU ;Anak bungsu;Nomina
+K463;OPOR;Bagi;Verba
+K464;OSUONG;Usung;Verba
+K465;OTAM;Katam;Nomina
+K466;OTAN;Rotan;Nomina
+K467;OWUN;Harum;Adjektiva
+K468;PADO;Pada;Preposisi
+K469;PALALA;Suka bepergian;Verba
+K470;PALANG;Palang;Nomina
+K471;PALANTAE;Serambi / teras;Nomina
+K472;PALOPEH;Lepaskan;Verba
+K473;PALUPO;Pelupa;Adjektiva
+K474;PAMABUAK;Pemabuk;Nomina
+K475;PANE;Panas;Adjektiva
+K476;PANAU;Panu;Nomina
+K477;PANDAPEK;Pendapat;Nomina
+K478;PANGAYUA;Dayung;Nomina
+K479;PANJEK;Panjat;Verba
+K480;PANTANG;Larangan;Nomina
+K481;PARA;Sangat;Adverbia
+K482;PASAU;Pasar;Nomina
+K483;PATA;Patah;Adjektiva
+K484;PAJIE;Anak;Nomina
+K485;PAIK;Pahit;Adjektiva
+K486;PAGI;Pagi;Nomina (waktu)
+K487;PANYAKIK;Penyakit;Nomina
+K488;PANYAYANG;Penyayang;Adjektiva
+K489;PANCILOK;Pencuri;Nomina
+K490;PANCIONG;Pancing ;Nomina
+K491;PANYOBAB;Penyebab;Nomina
+K492;PANYOGAN;Pemalas;Nomina
+K493;PEAK;Perak;Nomina
+K494;PELITO;Pelita;Nomina
+K495;PEWUOK;Periuk ;Nomina
+K496;PIKIGHAN;Pikiran;Nomina
+K497;PIANGAI;Perilaku;Nomina
+K498;PINTE;Pintas;Verba
+K499;PINTO / PINTAK;Minta-minta;Verba
+K500;PISOKO;Pisoko;Nomina
+K501;PITI;Uang;Nomina
+K502;PITULO;Gambas;Nomina
+K503;PIYAU;Perahu;Nomina
+K504;PODEH;Pedas;Adjektiva
+K505;POGANG;Pegang;Verba
+K506;POANGAI;Perangai;Nomina
+K507;POI;Pergi;Verba
+K508;PONEK;Capek;Adjektiva
+K509;PONING;Pusing ;Adjektiva
+K510;PONUH;Penuh;Adjektiva
+K511;PONGANG;Sombong;Adjektiva
+K512;POSAN;Pesan;Nomina
+K513;POTANG;Sore ;Adverbia
+K514;POWIK;Perut;Nomina
+K515;PUSEK;Pusat;Nomina
+K516;PUTIO;Putih;Adjektiva
+K517;ROBU;Rabu;Nomina (waktu)
+K518;SAAT;Saat;Nomina
+K519;SAETU;Dahulunya;Adverbia (waktu)
+K520;SAOK;Tutup;Verba
+K521;SAONTAK;Bersatu;Verba
+K522;SAKATO;Mufakat;Nomina
+K523;SAKIK;Sakit;Adjektiva
+K524;SAKYIE;Pas sekali;Adjektiva
+K525;SALANG;Loteng;Nomina
+K526;SALASA;Selasa;Nomina
+K527;SAMBAE;Sambal;Nomina
+K528;SAMPODE;Sempedas;Nomina
+K529;SANAK;Saudara;Nomina
+K530;SANOYAN;Senin;Nomina
+K531;SANGEIK;Sengai;Adjektiva
+K532;SAPULUO;Sepuluh;Numeralia
+K533;SARAWA;Celana;Nomina
+K534;SASENTI;Satu sentimeter;Numeralia
+K535;SAUDAGHO;Saudara;Nomina
+K536;SAYAK;Tempurung kelapa;Nomina
+K537;SAYU;Sayur;Nomina
+K538;SAWUONG;Sarung;Nomina
+K539;SEBOLUM;Sebelum;Konjungsi subordinatif (waktu)
+K540;SELOSAI;Selesai;Adjektiva
+K541;SEMBILAN;Sembilan;Numeralia
+K542;SENSOGHANG;Sendirian;Adverbia
+K543;SENTAK;Tarik;Verba
+K544;SEPA;Berserakan;Verba
+K545;SETIOK;Setiap;Determinator
+K546;SETUJU;Setuju;Adjektiva
+K547;SIANG;Siang;Nomina
+K548;SIAN;Mimpi;Nomina
+K549;SIANU;Sianu;Pronomina
+K550;SIALANG;Kayu sialang;Nomina
+K551;SIAWANG;Penyelam;Nomina
+K552;SIBU;Seribu;Numeralia
+K553;SIBUIK;Sibuk;Adjektiva
+K554;SIGHA;Merah;Adjektiva
+K555;SIJUNDAI;Guna-guna;Nomina
+K556;SIKOLAH;Sekolah;Nomina
+K557;SIKO;Sini;Adverbia
+K558;SILAP;Lupa;Verba
+K559;SILAU;Silau;Adjektiva
+K560;SILOGHAW;Celana pria;Nomina
+K561;SILOGHAW KOTOK;Celana dalam pria;Nomina
+K562;SAMBOLIE;Sembelih;Verba
+K563;SINGKILAN;Alas;Nomina
+K564;SINGKOK;Buka;Verba
+K565;SINGOK;Ventilasi;Nomina
+K566;SINTAK;Tarik;Verba
+K567;SIPAK;Sepak;Verba
+K568;SIPANGGILAN;Undangan;Nomina
+K569;SIPUNPOKOK;Tuan rumah;Nomina
+K570;SITAN / SITEN;Kesana;Adverbia
+K571;SITAT;Ketapel;Nomina
+K572;SINYAK;Kesini;Adverbia
+K573;SINEWAN;Kurang waras;Adjektiva
+K574;SOBASO;Pantangan;Nomina
+K575;SOBAU;Sabar;Adjektiva
+K576;SOBUAK;Serbuk ;Nomina
+K577;SODANG;Sedang;Adverbia
+K578;SOGAN;Malas;Adjektiva
+K579;SOGHAU;Celaka;Adjektiva
+K580;SOGHANG;Sendiri;Adverbia
+K581;SOGHONG;Serang;Verba
+K582;SOJAK;Sejak;Preposisi
+K583;SOJUOK;Sejuk;Adjektiva
+K584;SOLAE;Sambal ikan;Nomina
+K585;SOLAI;Hidupkan;Verba
+K586;SOLANG;Pinjam;Verba
+K587;SOMPIK;Sempit;Adjektiva
+K588;SONANG;Senang;Adjektiva
+K589;SONDUOK;Sendok nasi;Nomina
+K590;SONSONG;Susul;Verba
+K591;SONTUONG;Kunci pintu;Nomina
+K592;SOPA;Makan (marah);Verba
+K593;SOPAN;Sopan;Adjektiva
+K594;SOSAK;Sesak;Adjektiva
+K595;SOSOK;Bekas ladang;Nomina
+K596;SOSOK PITI;Kembalian;Nomina
+K597;SOSEK;Sesat;Adjektiva
+K598;SOTO;Ikut serta;Verba
+K599;SOTIE;Setia;Adjektiva
+K600;SOTU;Sabtu;Nomina
+K601;SUBUH;Subuh;Nomina
+K602;SUMBIONG;Sumbing;Adjektiva
+K603;SUMU;Sumur;Nomina
+K604;SUNGAI LOWE;Sungai luas;Nomina
+K605;SUNGKAH;Habiskan;Verba
+K606;SULUE;Obor;Nomina
+K607;SULUONG;Tertua;Adjektiva
+K608;TABAYAK;Tumpah;Verba
+K609;TABUAN;Lebah ;Nomina
+K610;TABUANG;Terbuang;Verba
+K611;TADONGOU;Terdengar;Verba
+K612;TADI;Tadi;Adverbia
+K613;TAHOK;Tertelungkup;Adjektiva
+614;TAHAN;Tahan;Verba
+K615;TAJAK;Alat siang rumput;Nomina
+K616;TAJOMBOK / TASILENUJIK;Terselincir;Verba
+K617;TAKAE;Kendil besar;Nomina
+K618;TAKILIEU;Terkilir;Verba
+K619;TAKOJUIK;Terkejut;Adjektiva
+K620;TAKONAI;Kena;Verba
+K621;TAKONANG;Teringat;Verba
+K622;TAKUIK;Takut;Adjektiva
+K623;TALAM;Talam;Nomina
+K624;TALAM;Nampan;Nomina
+K625;TALINGO;Telinga;Nomina
+K626;TAMBUA;Tambah;Verba
+K627;TAMPUONG;Tempurung kelapa;Nomina
+K628;TAMU;Tamu;Nomina
+K629;TANDE;Habis;Adverbia
+K630;TANDUOK;Tanduk;Nomina
+K631;TANGKAE;Tangkal;Verba
+K632;TANGKE;Rajin bekerja;Adjektiva
+K633;TANGKOK;Tangkap;Verba
+K634;TAROGAK;Rindu;Verba
+K635;TAPEPO / TAPO APO;Entah apa-apa;Adverbia
+K636;TAPASO;Terpaksa;Adverbia
+K637;TAS;Tas;Nomina
+K638;TASINGKOK;Tersingkap;Verba
+K639;TATANGKOK;Tertangkap;Verba
+K640;TATANGKUIK;Jatuh tertelungkup;Verba
+K641;TEBONAM;Terbenam;Verba
+K642;TEGANG;Tarik;Verba
+K643;TEKUI;Jitak;Verba
+K644;TELALU;Terlalu;Adverbia
+K645;TENJU;Tinju;Verba
+K646;TENGGAK;Hati-hati;Adjektiva
+K647;TENGGEN;Mabuk;Adjektiva
+K648;TENGGI;Tinggi;Adjektiva
+K649;TENGKUI;Pincang;Adjektiva
+K650;TERAS;Teras;Nomina
+K651;TIKAM;Ditusuk pisau;Verba
+K652;TIPU TEPOK;Tipuan;Nomina
+K653;TINGGE;Tinggal;Verba
+K654;TIGO;Tiga;Numeralia
+K655;TOBANG;Terbang;Verba
+K656;TOBE;Tebas;Verba
+K657;TOJUN;Terjun;Verba
+K658;TOKAN;Tekan;Verba
+K659;TONGKAE;Tidak patuh;Adjektiva
+K660;TONANG;Tenang;Adjektiva
+K661;TONTANG;Tentang;Preposisi
+K662;TONTU;Tahu;Adjektiva
+K663;TOPEK;Tepat;Adjektiva
+K664;TUJEK;Ditolak dengan kaki;Verba
+K665;TUJU;Sasaran;Nomina
+K666;TUJUO;Tujuh;Numeralia
+K667;TUGAS;Tugas;Nomina
+K668;TUKAE;Tukar;Verba
+K669;TUKAK;Penyakit kulit;Nomina
+K670;TUKANG;Tukang;Nomina
+K671;TULAK;Tolak;Verba
+K672;TUNGAU;Tungau;Nomina
+K673;TUNGKAI;Tulang kaki;Nomina
+K674;TUNGKEK;Ditopang;Verba
+K675;TUNGKEK;Tongkat;Nomina
+K676;TUNGOTU;Ditarik-tarik;Verba
+K677;TUNGGIANG;Dibalikkan;Verba
+K678;TUO;Tua;Adjektiva
+K679;TUOK;Datuk;Nomina
+K680;UBEK;Obat;Nomina
+K681;UDO;Abang (Kakak laki-laki nomor dua);Nomina
+K682;UGHANG;Orang;Nomina
+K683;UJANG;Anak laki-laki;Nomina
+K684;UKU;Ukur;Verba
+K685;UMAH;Rumah;Nomina
+K686;UMBAI;Rayuan maut;Nomina
+K687;UMBAN;Lempar;Verba
+K688;UMBUAK;Rayuan;Nomina
+K689;UMUE;Umur;Nomina
+K690;UNCA;Ganggu;Verba
+K691;UNDIANG;Runding;Verba
+K692;UNTUNG;Untung;Nomina
+K693;USAHO;Usaha;Nomina
+K694;USANG;Usang;Adjektiva
+K695;USAK;Rusak;Adjektiva
+K696;UTANG;Hutang;Nomina
+K697;UWUO;Kakak laki-laki / kakak perempuan;Nomina
+K698;WAANG;Kamu;Pronomina
+K699;YO;Ya;Interjeksi
+K700;YOLA;Baiklah;Interjeksi
+K701;YO’GA / YO GA DU;Apa iya;Interjeksi
+K702;YO’TIO;Oke lah;Interjeksi
+K703;ZAMAN;Zaman;Nomina

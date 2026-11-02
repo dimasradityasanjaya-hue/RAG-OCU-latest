@@ -1,0 +1,86 @@
+ID;Bahasa Ocu;Frasa Indonesia;Keterangan
+F001;ATI BUSUOK;Busuk hati;Frasa nomina
+F002;ATI TONANG;Hati tenang;Frasa nomina
+F003;HAROTO PISOKO;Harta pusaka;Frasa nomina
+F004;UGHANG MUDO;Orang muda;Frasa nomina
+F005;UGHANG MUSIKIN;Orang miskin;Frasa nomina
+F006;UGHANG GHAMAI;Orang ramai;Frasa nomina
+F007;UGHANG JAEK;Orang jahat;Frasa nomina
+F008;UGHANG ELOK;Orang baik;Frasa nomina
+F009;UMAH LAMO;Rumah lama;Frasa nomina
+F010;UMAH BOSAU;Rumah besar;Frasa nomina
+F011;UMAH KETEK;Rumah kecil;Frasa nomina
+F012;UMAH BAROSIO;Rumah bersih;Frasa nomina
+F013;UMAH LODAH;Rumah kotor;Frasa nomina
+F014;KAMPUONG GHAMAI;Kampung ramai;Frasa nomina
+F015;KAMPUONG LAMO;Kampung lama;Frasa nomina
+F016;PASAU LAMO;Pasar lama;Frasa nomina
+F017;HAROTO GODANG;Harta besar;Frasa nomina
+F018;HAROTO LAMO;Harta lama;Frasa nomina
+F019;MATO ITAM;Mata hitam;Frasa nomina
+F020;MATO SIGHA;Mata merah;Frasa nomina
+F021;BIBIU SIGHA;Bibir merah;Frasa nomina
+F022;BIBIU BIU;Bibir biru;Frasa nomina
+F023;AYU ANGEK;Air panas;Frasa nomina
+F024;AYU SOJUOK;Air sejuk;Frasa nomina
+F025;BOGHE PUTIO;Beras putih;Frasa nomina
+F026;BOGHE BAROSIO;Beras bersih;Frasa nomina
+F027;DINDIONG UMAH;Dinding rumah;Frasa nomina
+F028;ATOK UMAH;Atap rumah;Frasa nomina
+F029;LAMAN UMAH;Halaman rumah;Frasa nomina
+F030;BILIOK UMAH;Kamar rumah;Frasa nomina
+F031;TIGO UGHANG;Tiga orang;Frasa numeralia
+F032;OMPEK UMAH;Empat rumah;Frasa numeralia
+F033;LIMO PAJIE;Lima anak;Frasa numeralia
+F034;DUO UGHANG;Dua orang;Frasa numeralia
+F035;SAPULUO UGHANG;Sepuluh orang;Frasa numeralia
+F036;ISUOK PAGI;Besok pagi;Frasa waktu
+F037;ISUOK MALAM;Besok malam;Frasa waktu
+F038;PAGI AGHI;Pagi hari;Frasa waktu
+F039;MALAM AGHI;Malam hari;Frasa waktu
+F040;LAWIK MALAM;Larut malam;Frasa waktu
+F041;AMBIOK PITI;Mengambil uang;Frasa verba
+F042;AMBIOK BUKU;Mengambil buku;Frasa verba
+F043;MAMBOLI BOGHE;Membeli beras;Frasa verba
+F044;MAMBOLI BUKU;Membeli buku;Frasa verba
+F045;MAMBUEK UMAH;Membuat rumah;Frasa verba
+F046;POI PASAU;Pergi ke pasar;Frasa verba
+F047;BALIOK UMAH;Pulang ke rumah;Frasa verba
+F048;BAJALAN PASAU;Berjalan ke pasar;Frasa verba
+F049;BALAGHI UMAH;Berlari ke rumah;Frasa verba
+F050;MANENGOK UGHANG;Melihat orang;Frasa verba
+F051;MANUNGGU ISUOK;Menunggu besok;Frasa verba
+F052;JO UGHANG;Dengan orang;Frasa verba
+F053;BATANYO UGHANG;Bertanya pada orang;Frasa verba
+F054;MAMBOLI BOGHE;Orang membeli beras;Frasa verba
+F055;POI PASAU;Orang pergi ke pasar;Frasa verba
+F056;BALIOK UMAH;pulang ke rumah;Frasa verba
+F057;PAJIE BAJALAN;Anak berjalan;Frasa verba
+F058;PAJIE BALAGHI;Anak berlari;Frasa verba
+F059;MAMBOLI BOGHE;membeli beras;Frasa verba
+F060;LAKI POI KOBUN;Suami pergi ke kebun;Frasa verba
+F061;UGHANG MANENGOK;Orang melihat;Frasa verba
+F062;MANENGOK UMAH;Melihat rumah;Frasa verba
+F063;MANUNGGU ISUOK;Menunggu besok;Frasa verba
+F064;UGHANG BATANYO;Orang bertanya;Frasa verba
+F065;UGHANG MANGECEK BINI;Orang berbicara;Frasa verba
+F066;BINI MAMBUEK SAMBAE;Istri membuat sambal;Frasa verba
+F067;LAKI MAMBUEK UMAH;Suami membuat rumah;Frasa verba
+F068;PAJIE MEMBACO;Anak membaca;Frasa verba
+F069;UGHANG MANDONGOU;Orang mendengar;Frasa verba
+F070;UGHANG BAJALAN;Orang berjalan;Frasa verba
+F071;BALAGHI COPEK;Berlari cepat;Frasa verba
+F072;BINI MANENGOK;Istri melihat;Frasa verba
+F073;LAKI MANENGOK;Suami melihat;Frasa verba
+F074;UGHANG KONAI;Orang jatuh;Frasa verba
+F075;AMBIOK PITI;Mengambil uang;Frasa verba
+F076;AMBIOK BUKU;Mengambil buku;Frasa verba
+F077;BALIOK MALAM;Pulang malam;Frasa waktu
+F078;POI ISUOK;Pergi besok;Frasa waktu
+F079;MANUNGGU MALAM;Menunggu malam;Frasa waktu
+F080;BAJALAN PAGI;Berjalan pagi;Frasa waktu
+F081;BAJALAN PASAU;Berjalan ke pasar;Frasa verba
+F082;BALAGHI PASAU;Berlari ke pasar;Frasa verba
+F083;MAMBUEK TUGAS;Membuat tugas;Frasa verba
+F084;PAJIE MAMBUEK TUGAS;Anak membuat tugas;Frasa verba
+F085;UGHANG MANENGOK AGHI;Orang melihat hari;Frasa verba

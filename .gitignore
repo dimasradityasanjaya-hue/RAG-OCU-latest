@@ -1,0 +1,35 @@
+# Python caches and virtual environments
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+.venv_*/
+
+# Local IDE / agent state
+.vscode/
+.agents/
+.superpowers/
+.github/instructions/
+
+# Secrets and local config
+.env
+
+# Generated artifacts and outputs
+vector_store/
+evaluation_results/
+experiments/
+outputs/
+tmp/
+RAG_OCU_Colab.zip
+docs/
+bib_merx.txt
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
